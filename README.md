@@ -1,3 +1,7 @@
-# Serviço local para o gaminganywhere	
+# Local service to start gaminganywhere
 
-Esse serviço foi feito para utilizar o gaminganywhere, basicamente o servidor que vai rodar o jogo vai executar esse serviço, 
+This service was made to use gaminganywhere, basically the server that will run the game will run this service,
+
+
+More information:
+> https://github.com/HarryPaulo/gaming_client
