@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "author": "Harry",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "body-parser": "*",
+    "consolidate": "*",
+    "cors": "^2.8.4",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "node-fetch": "^2.2.0",
+    "pg": "*",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "license": "MIT"
+}
