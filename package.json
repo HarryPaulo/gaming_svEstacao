@@ -4,10 +4,10 @@
   "author": "Harry",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "set NODE_ENV=development && node server.js"
   },
   "dependencies": {
-    "bluebird": "^3.5.2",
+    "bluebird": "^3.5.3",
     "body-parser": "*",
     "consolidate": "*",
     "cors": "^2.8.4",
@@ -15,8 +15,12 @@
     "dustjs-helpers": "*",
     "dustjs-linkedin": "*",
     "express": "*",
-    "node-fetch": "^2.2.0",
+    "find-process": "^1.2.1",
+    "internal-ip": "^3.0.1",
+    "machine-uuid": "^1.2.0",
+    "node-fetch": "^2.3.0",
     "pg": "*",
+    "public-ip": "^2.4.0",
     "socket.io": "^2.1.1",
     "socket.io-client": "^2.1.1"
   },
