@@ -20,7 +20,7 @@
     "machine-uuid": "^1.2.0",
     "node-fetch": "^2.3.0",
     "pg": "*",
-    "public-ip": "^2.4.0",
+    "public-ip": "^6.0.1",
     "socket.io": "^2.1.1",
     "socket.io-client": "^2.1.1"
   },
